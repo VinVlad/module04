@@ -3,7 +3,7 @@ package main
 import (
 	"errors"
 	"fmt"
-	"myapp/internal"
+	"module04/internal"
 )
 
 const DEFAULT_DISCOUNT = 500
